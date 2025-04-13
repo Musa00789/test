@@ -1,4 +1,4 @@
 {
-  "react_paid": false,
-  "angular-paid": true
+  "react_paid": true,
+  "angular-paid": false
 }
